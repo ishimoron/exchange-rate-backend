@@ -1,5 +1,7 @@
 ### Please firstly run backend then frontend
 
+### Exchange rates automatically obtained every day
+
 1. `git clone https://github.com/ishimoron/exchange-rate-backend.git`  
 2.  to run app use `mvn spring-boot:run`
 3.  to run test use `mvn test`
